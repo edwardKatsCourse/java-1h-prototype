@@ -1,3 +1,0 @@
-1. Prototype
-2. form validations
-3. window.location.href (basic form + successful/error pages)
